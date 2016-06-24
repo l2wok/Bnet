@@ -1,5 +1,5 @@
 <?php
-namespace App\Helpers\Bnet\GrantType;
+namespace Bnet\GrantType;
 
 interface IGrantType 
 {
