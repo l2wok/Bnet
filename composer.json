@@ -1,0 +1,28 @@
+{
+    "name": "l2wok/bnet",
+    "license": "MIT",
+    "description": "PHP OAuth2.0 for Blizzard API.",
+    "keywords": ["oauth", "bnet-api"],
+    "homepage": "https://l2wok.github.io/Bnet/",
+    "authors": [
+        {
+            "name": "Andr Pleasure",
+            "email": "admin@eu-wow.ru",
+            "homepage": "https://eu-wow.ru"
+        }
+    ],
+    "support": {
+        "email": "admin@eu-wow.ru",
+        "issues": "https://l2wok.github.io/Bnet/issues",
+        "source": "https://l2wok.github.io/Bnet"
+    },
+    "require": {
+        "php": ">=5.4",
+        "ext-curl": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "bnet\\": ""
+        }
+    }
+}
