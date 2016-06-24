@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Helpers\Bnet;
+namespace Bnet;
 
 class Client
 {
