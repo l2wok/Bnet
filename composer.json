@@ -4,7 +4,6 @@
     "description": "PHP OAuth2.0 for Blizzard API.",
     "keywords": ["oauth", "bnet-api"],
     "homepage": "https://l2wok.github.io/Bnet/",
-    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Andr Pleasure",
@@ -25,5 +24,7 @@
         "psr-0": {
             "bnet\\": ""
         }
-    }
+    },
+    "prefer-stable": true,
+    "minimum-stability": "dev"
 }
