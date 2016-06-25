@@ -1,5 +1,5 @@
 <?php
-namespace Bnet\GrantType;
+namespace GrantType;
 
 interface IGrantType 
 {
