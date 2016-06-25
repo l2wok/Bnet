@@ -1,5 +1,5 @@
 <?php
-namespace Bnet\GrantType;
+namespace GrantType;
 
 class ClientCredentials implements IGrantType
 {
