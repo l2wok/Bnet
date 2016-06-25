@@ -1,7 +1,7 @@
 <?php
-namespace Bnet\GrantType;
+namespace GrantType;
 
-use Bnet\InvalidArgumentException;
+use InvalidArgumentException;
 
 class AuthorizationCode implements IGrantType
 {
