@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-0": {
-            "bnet\\": ""
+            "\\": ""
         }
     },
     "prefer-stable": true,
