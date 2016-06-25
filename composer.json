@@ -1,5 +1,5 @@
 {
-    "name": "l2wok/bnet",
+    "name": "l2wok/Bnet",
     "license": "MIT",
     "description": "PHP OAuth2.0 for Blizzard API.",
     "keywords": ["oauth", "bnet-api"],
@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-0": {
-            "\\": ""
+            "src\\": ""
         }
     },
     "prefer-stable": true,
