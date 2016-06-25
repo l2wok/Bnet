@@ -1,8 +1,6 @@
 <?php
 
-namespace Bnet;
-
-class Client
+class BnetClient
 {
 
     const AUTH_TYPE_URI                      = 0;
